@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Story
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Story\ here.\r\n\r\n\ @Connor\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Story()
+comment2.params=starter
+comment2.target=void\ start(java.lang.String)
+comment3.params=
+comment3.target=void\ enterStageOne()
+comment4.params=
+comment4.target=void\ umbreonBattle()
+comment5.params=
+comment5.target=void\ magnetonBattle()
+comment6.params=milliseconds
+comment6.target=void\ stopFrickenTime(int)
+comment7.params=s\ StartStopLoop
+comment7.target=void\ playMusic(java.lang.String,\ java.lang.String)
+numComments=8

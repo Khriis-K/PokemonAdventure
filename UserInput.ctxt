@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UserInput
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UserInput\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=validInputs
+comment1.target=java.lang.String\ getValidInput(java.lang.String[])
+comment1.text=\r\n\ Verifies\ that\ one\ of\ the\ strings\ provided\ as\ arguments\ will\ be\r\n\ returned.\r\n\r\n\ Example\ usage\:\r\n\ String\ input\ \=\ User.getValidInput("yes",\ "no",\ "y",\ "n");\r\n\r\n\ Only\ yes,\ no,\ y,\ and\ n\ are\ valid\ inputs.\ If\ the\ user\ types\ anything\r\n\ else,\ they\ will\ be\ prompted\ to\ re-enter.\r\n\r\n
+comment2.params=
+comment2.target=java.lang.String\ getLine()
+comment3.params=
+comment3.target=int\ getInt()
+numComments=4

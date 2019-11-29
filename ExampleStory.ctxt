@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ExampleStory
+comment1.params=
+comment1.target=ExampleStory()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ work()
+comment4.params=
+comment4.target=void\ ending1()
+comment5.params=
+comment5.target=void\ ending2()
+comment6.params=milliseconds
+comment6.target=void\ wait(int)
+comment6.text=\r\n\ Will\ delay\ output\ for\ the\ number\ of\ milliseconds\ provided\ as\ an\ argument\r\n
+numComments=7
